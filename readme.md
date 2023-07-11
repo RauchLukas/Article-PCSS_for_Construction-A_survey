@@ -2,8 +2,7 @@
 
 Repository to the MDPI, Applied Science article: Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A survey
 
-> Authorship: Lukas Rauch
-
+> Authorship: Lukas Rauch   
 > Coauthor: Thomas Braml
 
 The content of this repo will be available as soon as the article is published. 
