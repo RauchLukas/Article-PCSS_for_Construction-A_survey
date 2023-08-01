@@ -1,4 +1,4 @@
-# Article - Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A survey
+# Article - Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A Survey
 
 Repository to the MDPI, Applied Science article: Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A survey
 
