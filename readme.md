@@ -27,9 +27,12 @@ Point cloud learning has recently gained strong attention due to its application
 }
 ```
 
-## Supplementary Material
+Figure 2 : _A tree structure to summarize the variety of common dataset configurations for 3D scene understanding tasks._
+![Semantic segmentation benchmark results on the S3DIS dataset](./assets/Figure_2.jpg)
 
-### 1. List of  publicly available dataset for 3D-scene understanding (Preview)
+
+## Supplementary Material
+### 1. List of  publicly available datasets for 3D-scene understanding (Preview)
 
 TABLE I. List of publicly available datasets for 3D-scene understanding, categories by data acquisition method, the content of the dataset, used hardware, data representation, and extent of available annotation classes. 
 > Declaration of data type real-world (R), synthetic (S).
