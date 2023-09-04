@@ -1,7 +1,7 @@
 # Article - _[Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A Survey](https://doi.org/10.3390/app13169146)_
 
 
-<p style="text-align: center;">Figure 13: Reported results for semantic segmentation task on the large-scale indoor  <a href="http://buildingparser.stanford.edu/dataset.html">S3DIS</a> benchmark.</p>
+_Figure 13: Reported results for semantic segmentation task on the large-scale indoor  [S3DIS](http://buildingparser.stanford.edu/dataset.html) benchmark._
 
 ![Semantic segmentation benchmark results on the S3DIS dataset](./assets/Figure_13.jpg)
 
