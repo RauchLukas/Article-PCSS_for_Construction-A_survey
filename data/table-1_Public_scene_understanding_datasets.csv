@@ -1,0 +1,52 @@
+,Year,Name,Resource,Data type,Objects,Indoor sites,Urban (S),Urban (D),Industrial,Infrastructure / Rural,Panoramic cameras,Stereo camera,RGB-D,TLS,MLS,ALS,Aerial photogrammetry,IMU,GPS,RGB sequence,Depth sequence,Point cloud,3D model,RGB,Intensity,Mesh,Normals,# Sem. classes,Object detection,Pose estimation,Shape classfication,Object tracking,Semantic segmentation,Instance sem. segmentation,PC registration,Scene reconstruction,Surface reconstruction,Volume reconstruction,SLAM,# Points,# Frames,# Scenes,# Scans
+1,2009,Oakland 3-D,https://www.ri.cmu.edu/pub_files/2009/6/munoz_cvpr_09.pdf,R,,,1,,,,,,,1,,,,,,,,1,,,,,,5,,,,,1,,,,,,,"1,6M",,,
+2,2011,Ford Campus Vision and Lidar Data Set,http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf,R,,,,1,,,1,,,,1,,,1,1,1,,1,,1,1,,,,1,,,,1,,,,,,1,,,2,
+3,2012,KITTI stereo evaluation 2012,https://www.cvlibs.net/publications/Geiger2012CVPR.pdf,R,,,,1,,,,1,,,1,,,1,1,1,1,,,1,,,,8,1,1,,1,1,1,,,,,1,,"1,5K",22,
+4,2013,NYUv2,https://arxiv.org/pdf/1301.3572.pdf,R,,1,,,,,,,1,,,,,,,1,1,,,,,,,14,,,,,1,,,,,,,,"407,0K",464,
+5,2013,SUN3D,https://vision.princeton.edu/projects/2013/SUN3D/paper.pdf,R,,1,,,,,,,1,,,,,,,1,1,,,,,,,,,,,,1,1,,1,,,,,,254,415
+6,2013,Sydney Urban Objects,https://www.araa.asn.au/acra/acra2013/papers/pap133s1-file1.pdf,R,1,,,,,,,,,,1,,,,,,,1,,,,,,14,,,1,,,,,,,,,,,,613
+7,2014,Paris-rue-Madame database,https://hal.archives-ouvertes.fr/hal-00963812/document,R,,,,1,,,,,,,1,,,,,,,1,,,1,,,17,,,,,1,1,,,,,,"2,0M",,1,2
+8,2015,iQmulus ,https://www.sciencedirect.com/science/article/abs/pii/S009784931500028X,R,,,,1,,,,,,,1,,,,,,,1,,,1,,,8,,,,,1,1,,,,,,"300,0M",,10,
+9,2015,NCTL Dataset,https://journals.sagepub.com/doi/10.1177/0278364915614638,R,,1,1,,,,1,,,,1,,,1,1,1,,1,,,,,,,,,,,,,,,,,1,,,1,27
+10,2015,SceneNet,https://arxiv.org/pdf/1511.07041v2.pdf,S,,1,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,1,1,,,,,59,
+11,2015,ShapeNet,https://arxiv.org/abs/1512.03012,S,1,,,,,,,,,,,,,,,,,,1,,,1,,270,,,1,,,,,,1,1,,,,51300,
+12,2015,SUN RGB-D,https://rgbd.cs.princeton.edu/paper.pdf,R,,1,,,,,,,1,,,,,,,1,1,,,,,,,53,1,1,,,1,,,,,,,,"10,3K",10335,10335
+13,2016,ObjectNet3D,https://cvgl.stanford.edu/papers/xiang_eccv16.pdf,S,1,,,,,,,,,,,,,,,1,,,,,,,,100,1,1,,,1,1,,,,,,,"90,1K",,
+14,2016,Oxford RobotCar,https://robotcar-dataset.robots.ox.ac.uk/images/robotcar_ijrr.pdf,R,,,,1,,,,,,,1,,,1,1,1,,1,,,1,,,,,,,,,,,,,,,,"20,0M",,
+15,2016,SceneNet RGB-D,https://robotvault.bitbucket.io/SceneNetRGBD.pdf,S,,1,,,,,,,1,,,,,,,1,1,,1,1,,,,,1,,,,1,1,,1,1,,,,"5,0M",57,15000
+16,2016,SceneNN,https://ieeexplore.ieee.org/document/7785081,R,,1,,,,,,,1,,,,,,,1,1,1,,1,,1,1,40,,,,,1,1,,1,,,,,,100,100
+17,2017,2D-3D-S Dataset,https://arxiv.org/abs/1702.01105,R,,1,,,,,1,,1,,,,,,,1,1,1,,1,,1,1,13,,,,,1,1,,1,1,,,"695,9M","70,5K",7,
+18,2017,Matterport3D,https://arxiv.org/pdf/1709.06158.pdf,R,,1,,,,,1,,1,,,,,,,1,1,1,,1,,1,1,40,,,,,1,1,,1,1,,,,"194,4K",90,10800
+19,2017,Redwood,http://redwood-data.org/indoor_lidar_rgbd/paper.pdf,R,,1,,,,,,,1,1,,,,,,1,1,1,,1,,1,,,,,,,,,1,1,1,,,,,5,
+20,2017,S3DIS,https://paperswithcode.com/paper/3d-semantic-parsing-of-large-scale-indoor,R,,1,,,,,1,,1,,,,,,,,,1,,1,,,,13,,,,,1,1,,,,,,,,6,271
+21,2017,Semantic3D,https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Hackel-etal-cmrt2017.pdf,R,,,1,,,,,,,1,,,,,,,,1,,1,1,,,9,1,,,,1,,1,,,,,"4,0B",,30,
+22,2018,Paris-Lille-3D,https://journals.sagepub.com/doi/epub/10.1177/0278364918767506,R,,,1,,,,,,,1,,,,,1,,,1,,,1,,,50,,,,,1,1,1,,,,,"143,1M",,11,115
+23,2018,ScanNet V2,https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf,R,,1,,,,,,,1,,,,,,,1,1,1,,1,,1,,20,1,1,1,,1,1,,1,,,,,"2,5M",707,1513
+24,2018,WHU-TLS dataset,https://www.sciencedirect.com/science/article/abs/pii/S0924271620300836,R,,,1,,,1,,,,1,,,,,,,,1,,1,,,,,,,,,,,1,,,,,"1,7B",,11,115
+25,2019,A*3D,https://arxiv.org/abs/1909.07541,R,,,,1,,,1,,,,1,,,,,1,,1,,1,,,,7,1,,,,,,,,,,,,"39,2K",,
+26,2019,Agroverse1,https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf,R,,,,1,,,1,1,,,1,,,,1,1,,1,,1,,,,17,1,,,1,,,,,,,1,,"6,6K",113,324557
+27,2019,ApolloScape,https://arxiv.org/pdf/1803.06184.pdf,R,,,,1,,,1,1,,,1,,,,1,1,1,1,,,,,,25,1,1,,1,1,1,,,,,,"70,0K","140,0K",,
+28,2019,BLVD,https://arxiv.org/pdf/1903.06405v1.pdf,R,,,,1,,,,1,,,1,,,,1,1,,1,,,,,,3,1,,,1,1,,,,,,,,"120,0K",,
+29,2019,H3D,https://arxiv.org/pdf/1903.01568.pdf,R,,,,1,,,1,,,,1,,,1,1,1,,1,,1,,,,8,1,,,1,1,1,,,,,1,,"27,7K",160,27721
+30,2019,Lyft Level 5,https://arxiv.org/pdf/2006.14480.pdf,R,,,,,,,1,,,,1,,,,,1,,1,,,,,,3,1,,,1,1,,,,,,1,,,170000,
+31,2019,PartNet,https://openaccess.thecvf.com/content_CVPR_2019/papers/Mo_PartNet_A_Large-Scale_Benchmark_for_Fine-Grained_and_Hierarchical_Part-Level_3D_CVPR_2019_paper.pdf,S,1,,,,,,,,,,,,,,,,,,1,,,1,,24,,,1,,1,,,,1,,,,,,26671
+32,2019,PreSIL,https://arxiv.org/pdf/1905.00160.pdf,S,,,,1,,,,,,,1,,,,,1,1,,,1,,,,2,1,1,,,1,1,,,,,,,"50,0K",,
+33,2019,Replica,https://arxiv.org/pdf/1906.05797.pdf,R,,1,,,,,,,1,,,,,1,,,,,1,1,,1,1,88,,,,,1,1,,,,,,,,18,
+34,2019,ScanObjectNN,https://arxiv.org/pdf/1908.04616.pdf,R,1,,,,,,,,1,,,,,,,,,1,,1,,,1,15,,,1,,1,,,,,,1,,,,2902
+35,2019,SemanticKITTI,https://arxiv.org/abs/1904.01416,R,,,,1,,,,,,,1,,,,,,,1,,,,,,28,,,,,1,1,,,,,1,,,22,43552
+36,2019,Structured3D,https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540494.pdf,S,,1,,,,,1,,1,,,,,,,1,1,,1,1,,1,,40,,,,,1,,1,1,1,,,,"196,0K",3500,21835
+37,2019,SynthCity,https://arxiv.org/pdf/1907.04758.pdf,S,,,,1,,,,,,,1,,,,,,,1,,1,,,,9,,,,,1,,,,,,,"367,9M",,1,9
+38,2020,Campus3D,https://arxiv.org/pdf/2008.04968.pdf,R,,,1,,,,,,,,,,1,,,,,1,,1,,,,24,1,,,,1,1,,1,,,,"1,0B",,6,
+39,2020,DALES,https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Varney_DALES_A_Large-Scale_Aerial_LiDAR_Data_Set_for_Semantic_Segmentation_CVPRW_2020_paper.pdf,R,,,1,,,1,,,,,,1,,,,,,1,,,1,,,8,,,,,1,1,,,,,,"505,0M",,40,
+40,2020,nuScenes-lidarseg,https://arxiv.org/pdf/1903.11027.pdf,R,,,,1,,,1,,,,1,,,,,1,,1,,1,,,,32,1,1,,1,1,,,,,,,"1,4B","1,4M",1000,
+41,2020,Toronto-3D,https://arxiv.org/pdf/2003.08284.pdf,R,,,,1,,,1,,,,1,,,,1,,,1,,1,1,,,8,,,,,1,,,,,,1,"78,3M",,1,4
+42,2020,Waymo Open,https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.pdf,R,,,,1,,,1,,,,1,,,,,,,1,,1,1,,,23,1,,,1,1,,,,,,,,"390,0K",1150,230000
+43,2021,3D-FRONT,https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_3D-FRONT_3D_Furnished_Rooms_With_layOuts_and_semaNTics_ICCV_2021_paper.pdf,S,,1,,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,,,,,,,6813,18797
+44,2021,Agroverse2,https://openreview.net/pdf?id=vKQGe36av4k,R,,,,1,,,1,1,,,1,,,,1,,,1,,,1,,,30,1,,,1,,,,,,,1,,,1000,
+45,2021,BuildingNet,https://arxiv.org/pdf/2110.04955.pdf,S,,,1,,,,,,,,,,,,,,,,1,,,1,,31,,,,,1,,,,1,,,,,2000,
+46,2021,ONCE,https://arxiv.org/pdf/2106.11037.pdf,R,,,,1,,,1,,,,1,,,,1,,,1,,,1,,,5,1,,,,,,,,,,1,,"1,0M",581,
+47,2021,Paris-CARLA-3D,https://www.mdpi.com/2072-4292/13/22/4713,R,,,1,,,,1,,,,1,,,1,1,,,1,,1,1,,,23,,,,,1,1,,,,,,"60,0M",,12,
+48,2021,Paris-CARLA-3D,https://www.mdpi.com/2072-4292/13/22/4713,S,,,1,,,,,,,,1,,,,,,,1,,1,,,,23,,,,,1,1,,,,,,"700,0M",,12,
+49,2021,PSNet5,https://www.sciencedirect.com/science/article/abs/pii/S0926580521003253?via%3Dihub,R,,,,,,1,,,,1,,,,,,,,1,,1,1,,,5,,,,,1,,,,,,,"80,0M",,,
+50,2022,LiSurveying,https://reader.elsevier.com/reader/sd/pii/S0097849322001273?token=25B11071BBEA7E8DB10DC7E562AFDCA1C3FAF5C814070B5CF057A6F7991E0D8CF2C08BA3BB036B6F6918EF98A52E6D17&originRegion=eu-west-1&originCreation=20221117141625,R,,,1,,,,,,,1,,1,,,,,,1,,1,1,,,54,1,,,,1,1,,,,,,"2,5B",,3,
+51,2022,VASAD ,http://imagine.enpc.fr/~marletr/publi/ICPR-2022-Langlois-et-al.pdf,S,,1,,,,,,,,1,,,,,,,,,1,,,1,,11,,,,,1,,,1,1,1,,,,6,
