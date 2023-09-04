@@ -32,7 +32,7 @@ Figure 2 : _A tree structure to summarize the variety of common dataset configur
 
 
 ## Supplementary Material
-### 1. List of  publicly available datasets for 3D-scene understanding (Preview)
+### [1. List of  publicly available datasets for 3D-scene understanding (Preview)](./data/table-1_Public_scene_understanding_datasets.csv)
 
 TABLE I. List of publicly available datasets for 3D-scene understanding, categories by data acquisition method, the content of the dataset, used hardware, data representation, and extent of available annotation classes. 
 > Declaration of data type real-world (R), synthetic (S).
@@ -51,7 +51,7 @@ TABLE I. List of publicly available datasets for 3D-scene understanding, categor
 
 
 
-### 2. Rankings on S3DIS Semantic Segmentation Benchmark (Previrew)
+### [2. Rankings on S3DIS Semantic Segmentation Benchmark (Previrew)](./data/table-2_Rankings_on_S3DIS_SemsSeg_benchmark.csv)
 Reported results for semantic segmentation task on the large-scale indoor S3DIS benchmark (including all 6 areas, 6-fold cross validation). 
 Ranked in descending order based on mIoU performance. 
 > Declaration: C---convolution-based, G---graph-based,  H---hybrid, P---pooling-based, R---RNN-based, T---Transformer-based, V---voxel-based.
