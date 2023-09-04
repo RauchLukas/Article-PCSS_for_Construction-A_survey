@@ -27,17 +27,12 @@ Point cloud learning has recently gained strong attention due to its application
 }
 ```
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 ## Supplementary Material
 
-### List of  publicly available dataset for 3D-scene understanding (Preview)
+### 1. List of  publicly available dataset for 3D-scene understanding (Preview)
 
-TABLE I. List of publicly available datasets for 3D-scene understanding, categories by data acquisition method, the content of the dataset, used hardware, data representation, and extent of available annotation classes. Declaration of data type real-world (R), synthetic (S).
+TABLE I. List of publicly available datasets for 3D-scene understanding, categories by data acquisition method, the content of the dataset, used hardware, data representation, and extent of available annotation classes. 
+> Declaration of data type real-world (R), synthetic (S).
 
 
 |Nr. |Year|Name |Resource|Data type|Objects|Indoor sites|Urban (S)|Urban (D)|Industrial|Infrastructure / Rural|Panoramic cameras|Stereo camera|RGB-D|TLS|MLS|ALS|Aerial photogrammetry|IMU|GPS|RGB sequence|Depth sequence|Point cloud|3D model|RGB|Intensity|Mesh|Normals|# Sem. classes|Object detection|Pose estimation|Shape classfication|Object tracking|Semantic segmentation|Instance sem. segmentation|PC registration|Scene reconstruction|Surface reconstruction|Volume reconstruction|SLAM|# Points|# Frames|# Scenes|# Scans|
