@@ -1,22 +1,36 @@
-# Article - _[Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A Survey](https://doi.org/10.3390/app13169146)_
+# Article - Semantic point cloud segmentation with deep learning-based approaches for the construction industry: A Survey
+
+## Abstract
+Point cloud learning has recently gained strong attention due to its applications in various fields, like computer vision, robotics, and autonomous driving. Point cloud semantic segmentation (PCSS) enables the automatic extraction of semantic information from 3D point cloud data, which makes it a desirable task for construction-related applications as well. Yet, only a limited number of publications have applied deep-learning-based methods to address point cloud understanding for civil engineering problems, and there is still a lack of comprehensive reviews and evaluations of PCSS methods tailored to such use cases. This paper aims to address this gap by providing a survey of recent advances in deep-learning-based PCSS methods and relating them to the challenges of the construction industry. We introduce its significance for the industry and provide a comprehensive look-up table of publicly available datasets for point cloud understanding, with evaluations based on data scene type, sensors, and point features. We address the problem of class imbalance in 3D data for machine learning, provide a compendium of commonly used evaluation metrics for PCSS, and summarize the most significant deep learning methods developed for PCSS. Finally, we discuss the advantages and disadvantages of the methods for specific industry challenges. Our contribution, to the best of our knowledge, is the first survey paper that comprehensively covers deep-learning-based methods for semantic segmentation tasks tailored to construction applications. This paper serves as a useful reference for prospective research and practitioners seeking to develop more accurate and efficient PCSS methods.
 
 
-_Figure 13: Reported results for semantic segmentation task on the large-scale indoor  [S3DIS](http://buildingparser.stanford.edu/dataset.html) benchmark._
-
-![Semantic segmentation benchmark results on the S3DIS dataset](./assets/Figure_13.jpg)
+<p align="center">
+  <img width="700" src="./assets/Figure_13.jpg" alt="Rohbau3D point cloud feature maps">
+</p>
+<p align="center">
+  <em>Figure 13: Reported results for the semantic segmentation task on the large-scale indoor 
+  <a href="http://buildingparser.stanford.edu/dataset.html" target="_blank">S3DIS</a> benchmark.</em>
+</p>
 
 > Authors: ***Lukas Rauch***, _Thomas Braml_   
 > Correspondence: _lukas.rauch@unibw.de_   
 > DOI: _[https://doi.org/10.3390/app13169146](https://doi.org/10.3390/app13169146)_
 
-## Abstract
 
-Point cloud learning has recently gained strong attention due to its applications in various fields, like computer vision, robotics, and autonomous driving. Point cloud semantic segmentation (PCSS) enables the automatic extraction of semantic information from 3D point cloud data, which makes it a desirable task for construction-related applications as well. Yet, only a limited number of publications have applied deep-learning-based methods to address point cloud understanding for civil engineering problems, and there is still a lack of comprehensive reviews and evaluations of PCSS methods tailored to such use cases. This paper aims to address this gap by providing a survey of recent advances in deep-learning-based PCSS methods and relating them to the challenges of the construction industry. We introduce its significance for the industry and provide a comprehensive look-up table of publicly available datasets for point cloud understanding, with evaluations based on data scene type, sensors, and point features. We address the problem of class imbalance in 3D data for machine learning, provide a compendium of commonly used evaluation metrics for PCSS, and summarize the most significant deep learning methods developed for PCSS. Finally, we discuss the advantages and disadvantages of the methods for specific industry challenges. Our contribution, to the best of our knowledge, is the first survey paper that comprehensively covers deep-learning-based methods for semantic segmentation tasks tailored to construction applications. This paper serves as a useful reference for prospective research and practitioners seeking to develop more accurate and efficient PCSS methods.
+## Overview 
+* [Paper](#paper)
+* [Citation](#citation)
+* [Supplementary Material](#supplementary-material)
+
+
+## Paper 
+:page_facing_up: [Semantic Point Cloud Segmentation with Deep-Learning-Based Approaches for the Construction Industry: A Survey](https://doi.org/10.3390/app13169146)
 
 <!-- ---  -->
 > Keywords: point cloud; semantic segmentation; deep learning; machine learning; construction; automation; open source; dataset; survey
 
-## Bibtext
+
+## Citation
 ```Bibtex
 @article{rauch:2023,
   title={Semantic Point Cloud Segmentation with Deep-Learning-Based Approaches for the Construction Industry: A Survey},
@@ -27,8 +41,10 @@ Point cloud learning has recently gained strong attention due to its application
 }
 ```
 
-Figure 2 : _A tree structure to summarize the variety of common dataset configurations for 3D scene understanding tasks._
-![Semantic segmentation benchmark results on the S3DIS dataset](./assets/Figure_2.jpg)
+<p align="center">
+  <img width="800" src="./assets/Figure_2.jpg" alt="Rohbau3D point cloud feature maps">
+</p>
+<p align="center"><em>Figure 2: A tree structure to summarize the variety of common dataset configurations for 3D scene understanding tasks.</em></p>
 
 
 ## Supplementary Material
@@ -52,7 +68,7 @@ TABLE I. List of publicly available datasets for 3D-scene understanding, categor
 
 
 ### [2. Rankings on S3DIS Semantic Segmentation Benchmark (Previrew)](./data/table-2_Rankings_on_S3DIS_SemsSeg_benchmark.csv)
-Reported results for semantic segmentation task on the large-scale indoor S3DIS benchmark (including all 6 areas, 6-fold cross validation). 
+Reported results for the semantic segmentation task on the large-scale indoor S3DIS benchmark (including all 6 areas, 6-fold cross-validation). 
 Ranked in descending order based on mIoU performance. 
 > Declaration: C---convolution-based, G---graph-based,  H---hybrid, P---pooling-based, R---RNN-based, T---Transformer-based, V---voxel-based.
 
